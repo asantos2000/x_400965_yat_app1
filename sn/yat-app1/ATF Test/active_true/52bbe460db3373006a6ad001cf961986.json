@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": "Smoke test",
+  "enable_parameterized_testing": false,
+  "name": "yat_app_test",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-06 17:11:33",
+  "sys_id": "52bbe460db3373006a6ad001cf961986",
+  "sys_mod_count": 0,
+  "sys_name": "yat_app_test",
+  "sys_package": "0eedc42cdbbf33006a6ad001cf961962",
+  "sys_policy": null,
+  "sys_scope": "0eedc42cdbbf33006a6ad001cf961962",
+  "sys_update_name": "sys_atf_test_52bbe460db3373006a6ad001cf961986",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-06 17:11:33"
+}
